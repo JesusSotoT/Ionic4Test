@@ -1,0 +1,20 @@
+{
+	"appId": "com.strapberrytest.app",
+	"appName": "E-Commerce_Ionic4",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"cordova": {
+		"preferences": {
+			"ScrollEnabled": "false",
+			"android-minSdkVersion": "19",
+			"BackupWebStorage": "none",
+			"SplashMaintainAspectRatio": "true",
+			"FadeSplashScreenDuration": "300",
+			"SplashShowOnlyFirstTime": "false",
+			"SplashScreen": "screen",
+			"AutoHideSplashScreen": "false",
+			"ShowSplashScreenSpinner": "false",
+			"SplashScreenDelay": "3000"
+		}
+	}
+}
